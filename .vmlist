@@ -1,0 +1,11 @@
+{
+"version": 1,
+"ids": {
+"201": { "node": "px02", "type": "qemu", "version": 6 },
+"100": { "node": "px01", "type": "qemu", "version": 2 },
+"101": { "node": "px01", "type": "qemu", "version": 3 },
+"102": { "node": "px01", "type": "qemu", "version": 1 },
+"200": { "node": "px02", "type": "qemu", "version": 5 },
+"202": { "node": "px02", "type": "qemu", "version": 4 }}
+
+}
